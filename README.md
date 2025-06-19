@@ -29,7 +29,15 @@ A powerful yet minimal **carbon footprint tracking platform** built for sustaina
 
 ## 📸 Screenshots
 
-> Add screenshots here by uploading images or linking to hosted images.
+> ![Image](https://github.com/user-attachments/assets/9df1b13c-c1fc-499b-adfc-eec27fff0401)
+
+> ![Image](https://github.com/user-attachments/assets/79e0f58a-63ea-4036-a121-5bb9e34f595d)
+
+> ![Image](https://github.com/user-attachments/assets/2402b5f5-5fd6-4bea-a543-75dc54b86a95)
+
+> ![Image](https://github.com/user-attachments/assets/77bede25-a266-488d-8d26-9b49ce22925c)
+
+> ![Image](https://github.com/user-attachments/assets/f9b40730-1d20-4659-981c-7e112a3a7f26)
 
 ---
 
