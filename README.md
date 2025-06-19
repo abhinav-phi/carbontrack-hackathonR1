@@ -119,6 +119,15 @@ carbontrack-hackathonR1/
 
 - This project is open-source and available under the MIT License.
 
+ ## 🙌 Acknowledgements
+ 
+- This project was built with the support of AI tools like ChatGPT and Claude, along with insights gathered from various online blogs, developer articles, and open-source resources.
+- [What Is a Carbon Footprint? – WWF]
+  [Carbon Footprint Explained – National Geographic]
+  [UN Climate Change: Carbon Footprint Basics]
+  [How to Reduce Your Carbon Footprint – The New York Times]
+- Special thanks to these tools for accelerating ideation, debugging, and content clarity throughout the hackathon.
+
 ## 📧 Contact
 - Abhinav
 - GitHub: [abhinav-phi](github.com/abhinav.phi)
