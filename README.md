@@ -103,7 +103,7 @@ carbontrack-hackathonR1/
 ## 👥 Team
 
 - Abhinav — Full Stack Developer, Idea & UI/UX Design
-- GitHub: github.com/abhinav.phi
+- GitHub: [abhinav-phi](github.com/abhinav.phi)
 
 ## 🔮 Future Enhancements :
 
@@ -121,5 +121,5 @@ carbontrack-hackathonR1/
 
 ## 📧 Contact
 - Abhinav
-- GitHub: @abhinav-phi
-- Project Repo: carbontrack-hackathonR1
+- GitHub: [abhinav-phi](github.com/abhinav.phi)
+- Project Repo: [carbontrack-hackathonR1](github.com/abhinav.phi/carbontrack-hackathonR1)
